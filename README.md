@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Seba+Calviño;++;Estudiante+de+ORT+Yatay,;Especialidad:+Informática,;Front-End,;Back-End,;Enfocado+en+la+excelencia"></a>
 </p>
-🚀 Tech Stack
+
+🚀 Tech Stack & Learning Path
 
 💻 Front-End Development
 
@@ -15,10 +16,35 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-🛠️ Tools & Others
+📘 Currently Learning
+
+![HTML](https://img.shields.io/badge/Learning-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Learning-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/Learning-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+💾 Databases & Information Systems
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DDL](https://img.shields.io/badge/DDL-00618A?style=for-the-badge)
+![DML](https://img.shields.io/badge/DML-008CBA?style=for-the-badge)
+![DRL](https://img.shields.io/badge/DRL-00BFBF?style=for-the-badge)
+![DER](https://img.shields.io/badge/Entity_Relationship-Diagram-7B68EE?style=for-the-badge)
+
+🧠 Artificial Intelligence & Productivity
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+⚙️ Developer Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
