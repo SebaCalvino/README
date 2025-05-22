@@ -2,6 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Seba+Calviño;++;Estudiante+de+ORT+Yatay,;Especialidad:+Informática,;Front-End,;Back-End,;Enfocado+en+la+excelencia"></a>
 </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly)
 
 🚀 Tech Stack & Learning Path
