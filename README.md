@@ -6,10 +6,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <!-- Stats apilados -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=jolly" width="350" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="350" />
+      <!-- Stats apilados agrandados -->
+      <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=jolly" width="450" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="450" />
     </td>
     <td align="center" valign="top">
       <!-- GIF animado -->
