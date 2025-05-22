@@ -3,22 +3,24 @@
 </p>
 
 
-<table>
+<table align="center">
   <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly" />
+    <td align="center" valign="top">
+      <!-- Stats apilados -->
+      <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=jolly" width="350" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="350" />
     </td>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=jolly&width="300""/>   
-    </td>
-   <td>
+    <td align="center" valign="top">
+      <!-- GIF animado -->
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="300" />
     </td>
   </tr>
 </table>
 
+
 <div align="center">  
-  
+
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
 
