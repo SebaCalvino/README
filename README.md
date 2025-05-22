@@ -6,10 +6,11 @@
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <!-- Stats apilados agrandados -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=jolly" width="450" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+      <!-- Contenedor de stats y streak como un solo bloque -->
+      <div style="background-color: #1e1e2f; border-radius: 10px; padding: 10px; width: 460px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=jolly" width="450" style="display: block; margin: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="450" style="display: block; margin: auto; margin-top: 10px;" />
+      </div>
     </td>
     <td align="center" valign="top">
       <!-- GIF animado -->
@@ -17,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">  
