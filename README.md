@@ -23,7 +23,8 @@
 </div>
 
 
-🚀 Tech Stack & Learning Path
+
+<h2 align="center">🌚Tech Stack & Learning Path🌚</h2>
 
 💻 Front-End Development
 
