@@ -2,6 +2,10 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+la+makina;++;Estudiante+de+ORT+Yatay,;Especialidad:+Informática,;Front-End,;Back-End,;Enfocado+en+la+excelencia"></a>
 </p>
 
+<table align="center">
+ <td align="center" valign="top">
+       <img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="Cyberpunk Gif" width="100%" />
+</table>
 
 <table align="center">
   <tr>
@@ -19,17 +23,6 @@
   </tr>
 </table>
 
-
-
-<div align="center">  
-
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-
-<div align="center">
-  <img width="500" src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif"  alt="GitHub Profile Trophy"/>
-</div>
 <h2 align="center">🌚Tech Stack & Learning Path🌚</h2>
 
 💻 Front-End Development
@@ -76,6 +69,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
+  <div align="center">  
+  
+   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  </div>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -92,4 +89,4 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+
