@@ -26,49 +26,48 @@
 
 <h2 align="center">🌚Tech Stack & Learning Path🌚</h2>
 
-💻 Front-End Development
+## 💻 Front-End Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)
 
-🖥️ Back-End Development
+## 🖥️ Back-End Development
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-purple?style=for-the-badge&logo=dotnet&logoColor=white)
 
-📘 Currently Learning
+## 📘 Currently Learning
 
-![HTML](https://img.shields.io/badge/Learning-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Learning-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/Learning-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Learning HTML](https://img.shields.io/badge/Learning_HTML-purple?style=for-the-badge&logo=html5&logoColor=white)
+![Learning CSS](https://img.shields.io/badge/Learning_CSS-purple?style=for-the-badge&logo=css3&logoColor=white)
+![Learning JS](https://img.shields.io/badge/Learning_JS-purple?style=for-the-badge&logo=javascript&logoColor=white)
+![Learning SQL](https://img.shields.io/badge/Learning_SQL-purple?style=for-the-badge&logo=postgresql&logoColor=white)
+![Learning C#](https://img.shields.io/badge/Learning_C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+## 💾 Databases & Information Systems
 
-💾 Databases & Information Systems
+![SQL](https://img.shields.io/badge/SQL-purple?style=for-the-badge&logo=postgresql&logoColor=white)
+![DDL](https://img.shields.io/badge/DDL-purple?style=for-the-badge)
+![DML](https://img.shields.io/badge/DML-purple?style=for-the-badge)
+![DRL](https://img.shields.io/badge/DRL-purple?style=for-the-badge)
+![DER](https://img.shields.io/badge/Entity_Relationship_Diagram-purple?style=for-the-badge)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DDL](https://img.shields.io/badge/DDL-00618A?style=for-the-badge)
-![DML](https://img.shields.io/badge/DML-008CBA?style=for-the-badge)
-![DRL](https://img.shields.io/badge/DRL-00BFBF?style=for-the-badge)
-![DER](https://img.shields.io/badge/Entity_Relationship-Diagram-7B68EE?style=for-the-badge)
+## 🧠 Artificial Intelligence & Productivity
 
-🧠 Artificial Intelligence & Productivity
+![ChatGPT](https://img.shields.io/badge/ChatGPT-purple?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-purple?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-purple?style=for-the-badge&logo=notion&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+## 🔧 Developer Tools
 
-🔧 Developer Tools
- 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-purple?style=for-the-badge&logo=json&logoColor=white)
 
   <div align="center">  
   
