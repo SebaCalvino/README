@@ -10,7 +10,7 @@
 
 
 <table align="center"> 
-  <tr>
+  <tr> 
     <td align="center" valign="top">
       <!-- Contenedor de stats y streak como un solo bloque -->
       <div style="background-color: #1e1e2f; border-radius: 10px; padding: 10px; width: 460px;">
