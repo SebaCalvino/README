@@ -9,7 +9,7 @@
 
 
 
-<table align="center">
+<table align="center"> 
   <tr>
     <td align="center" valign="top">
       <!-- Contenedor de stats y streak como un solo bloque -->
