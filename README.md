@@ -8,14 +8,13 @@
 </table>
 
 
-
 <table align="center">
   <tr>
     <!-- GIF izquierdo -->
-    <td align="center" valign="top">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="300" />
+    <td align="center" valign="bottom" style="padding-right: 20px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="350" />
     </td>
-    <!-- Stats en el centro -->
+    <!-- Bloque de estadísticas -->
     <td align="center" valign="top">
       <div style="background-color: #1e1e2f; border-radius: 10px; padding: 10px; width: 460px;">
         <img src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&theme=jolly" width="450" style="display: block; margin: auto;" />
@@ -23,11 +22,12 @@
       </div>
     </td>
     <!-- GIF derecho -->
-    <td align="center" valign="top">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="300" />
+    <td align="center" valign="bottom" style="padding-left: 20px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="350" />
     </td>
   </tr>
 </table>
+
 
 
 
