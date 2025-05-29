@@ -10,23 +10,24 @@
 
 <table align="center">
   <tr>
-    <!-- GIF izquierdo -->
+    <!-- GIF izquierdo (más grande y alineado) -->
     <td align="center" valign="bottom" style="padding-right: 20px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="350" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="400" />
     </td>
-    <!-- Bloque de estadísticas -->
+    <!-- Bloque central (stats más chico) -->
     <td align="center" valign="top">
-      <div style="background-color: #1e1e2f; border-radius: 10px; padding: 10px; width: 460px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&theme=jolly" width="450" style="display: block; margin: auto;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sebacalvino&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="450" style="display: block; margin: auto; margin-top: 10px;" />
+      <div style="background-color: #1e1e2f; border-radius: 10px; padding: 10px; width: 360px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&theme=jolly" width="340" style="display: block; margin: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sebacalvino&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" width="340" style="display: block; margin: auto; margin-top: 10px;" />
       </div>
     </td>
-    <!-- GIF derecho -->
+    <!-- GIF derecho (más grande y alineado) -->
     <td align="center" valign="bottom" style="padding-left: 20px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="350" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="400" />
     </td>
   </tr>
 </table>
+
 
 
 
