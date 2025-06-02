@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing -svg.herokuapp.com?font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+la+makina;++;Estudiante+de+ORT+Yatay,;Especialidad:+Informática,;Front-End,;Back-End,;Enfocado+en+la+excelencia"></a>
 </p>
 <table align="center">
- <td align="center" valign="top">
+ <td align="center" valign="top"> 
        <img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="Cyberpunk Gif" width="100%" />
 </table> 
  
