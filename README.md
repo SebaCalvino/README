@@ -8,7 +8,7 @@
 </table> 
  
 
-<table align="center"> 
+<table align="center">  
   <tr>
     <!-- GIF izquierdo -->
     <td align="center" valign="middle" style="padding-right: 20px;">
