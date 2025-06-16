@@ -10,7 +10,7 @@
    
   
 <table align="center">    
-  <tr> 
+  <tr>  
     <!-- GIF izquierdo -->
     <td align="center" valign="middle" style="padding-right: 20px;"> 
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="400" />
