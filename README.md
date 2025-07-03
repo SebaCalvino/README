@@ -4,7 +4,7 @@
 </p>   
 <table align="center">   
 
-<td align="center" valign="top"> 
+<td align="center" valign="top">  
 <img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="Cyberpunk Gif" width="100%" />  
 </table>        
      
