@@ -1,6 +1,4 @@
-<td align="center" valign="top">  
-<img src="https://github.com/user-attachments/assets/f4b82cdc-fd47-4f90-a860-029da7feae8f" alt="Kiss Gif" width="500px" />  
-</table>         
+     
 
 
        
@@ -94,7 +92,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=C9C9C9)
 ![JSON](https://img.shields.io/badge/JSON-1a1a1a?style=for-the-badge&logo=json&logoColor=E5E5E5)
 
- ## <div align="center">  
-  
-   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-  </div> 
+## <div align="center">  
+
+## <div align="center">
+
+
+
+</div>
+
+</div>
