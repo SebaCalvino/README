@@ -1,35 +1,51 @@
-<p align="center">    
-      
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing -svg.herokuapp.com?  font=Time+New+Roman&color=black&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+la+makina;++;Estudiante+de+ORT+Yatay,;Especialidad:+Informática,;Front-End,;Back-End,;Enfocado+en+la+excelencia"></a>  
-</p>   
-<table align="center">   
-   
 <td align="center" valign="top">  
-<img src="https://i.pinimg.com/originals/1e/68/4d/1e684d15ad21997f1a92adfae922cfe5.gif" alt="Cyberpunk Gif" width="100%" />  
+<img src="https://github.com/user-attachments/assets/f4b82cdc-fd47-4f90-a860-029da7feae8f" alt="Kiss Gif" width="500px" />  
 </table>         
-       
+
+
        
 <table align="center">       
   <tr>     
-    <!-- GIF izquierdo -->
+    <!-- Imagen izquierda -->
     <td align="center" valign="middle" style="padding-right: 20px;"> 
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="400" />
+       <img width="564" height="1109" alt="image" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
     </td>   
-    <!-- Bloque central más grande y centrado verticalmente -->
-<td align="center" valign="middle">
-  <div style="background-color: #000000; border-radius: 10px; padding: 20px; width: 500px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&theme=dark" width="480" style="display: block; margin: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sebacalvino&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="480" style="display: block; margin: auto; margin-top: 15px;" />
-  </div>
-</td>
-    <!-- GIF derecho -->
+    <!-- Stats en el centro -->
+    <td align="center" valign="middle">
+      <div style="
+        background:#1b1b1b;          /* gris oscuro sólido */
+        border:1px solid #2a2a2a;
+        border-radius:14px;
+        padding:24px;
+        width:720px;                 /* más ancho */
+        box-shadow: 0 0 12px rgba(0,0,0,0.7);
+      ">
+        <!-- GitHub Readme Stats -->
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=dddddd&text_color=bfbfbf&icon_color=aaaaaa&v=6"
+          width="680"
+          alt="GitHub Stats"
+          style="display:block;margin:0 auto;"
+        />
+        <!-- Streak Stats -->
+        <img
+          src="https://streak-stats.demolab.com?user=sebacalvino&hide_border=true&background=1b1b1b&ring=aaaaaa&fire=aaaaaa&currStreakNum=dddddd&sideNums=bfbfbf&currStreakLabel=bfbfbf&sideLabels=bfbfbf&dates=8c8c8c&stroke=333333&v=6"
+          width="680"
+          alt="GitHub Streak"
+          style="display:block;margin:20px auto 0;"
+        />
+      </div>
+    </td>
+    <!-- Imagen derecha -->
     <td align="center" valign="middle" style="padding-left: 20px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNoemo5ejY3MTl5b2Q4Zml0dXVhdXc2MmltOHRqNmwzMW82bWgzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO01iyPI9sEn3Pi/giphy.gif" width="400" />
+      <img width="564" height="1109" alt="image" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
     </td>
   </tr> 
 </table>
 
- 
+
+
+
 
 
 
