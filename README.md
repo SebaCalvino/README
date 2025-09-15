@@ -1,6 +1,6 @@
 <img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/37cdd222-23b0-40d6-9477-d55ab678392d" />    
 <table align="center">       
-  <tr>     
+  <tr>      
     <!-- Imagen izquierda -->
     <td align="center" valign="middle" style="padding-right: 20px;"> 
        <img width="564" height="1109" alt="image" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
