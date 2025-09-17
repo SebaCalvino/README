@@ -6,7 +6,6 @@
     <td align="center" valign="middle" style="padding-right: 20px;"> 
        <img width="564" height="1109" alt="image" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
     </td>   
-
     <!-- Stats en el centro -->
     <td align="center" valign="middle">
       <div style="
@@ -24,7 +23,6 @@
           alt="GitHub Stats"
           style="display:block;margin:0 auto;"
         />
-
         <!-- Streak Stats -->
         <img
           src="https://streak-stats.demolab.com?user=sebacalvino&hide_border=true&card_width=680&background=1B1B1B&ring=AAAAAA&fire=AAAAAA&currStreakNum=DDDDDD&sideNums=BFBFBF&currStreakLabel=BFBFBF&sideLabels=BFBFBF&dates=8C8C8C&stroke=333333&theme=default&date_format=j%20M%5B%20Y%5D&cache_seconds=21600&v=9"
@@ -34,7 +32,6 @@
         />
       </div>
     </td>
-
     <!-- Imagen derecha -->
     <td align="center" valign="middle" style="padding-left: 20px;">
       <img width="564" height="1109" alt="image" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
