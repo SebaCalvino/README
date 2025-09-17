@@ -16,20 +16,7 @@
         width:720px;
         box-shadow: 0 0 12px rgba(0,0,0,0.7);
       ">
-        <!-- GitHub Readme Stats (mirror para evitar rate limit) -->
-        <img
-          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sebacalvino&show_icons=true&hide_border=true&bg_color=1B1B1B&title_color=DDDDDD&text_color=BFBFBF&icon_color=AAAAAA&cache_seconds=21600&v=9"
-          width="680"
-          alt="GitHub Stats"
-          style="display:block;margin:0 auto;"
-        />
-        <!-- Streak Stats -->
-        <img
-          src="https://streak-stats.demolab.com?user=sebacalvino&hide_border=true&card_width=680&background=1B1B1B&ring=AAAAAA&fire=AAAAAA&currStreakNum=DDDDDD&sideNums=BFBFBF&currStreakLabel=BFBFBF&sideLabels=BFBFBF&dates=8C8C8C&stroke=333333&theme=default&date_format=j%20M%5B%20Y%5D&cache_seconds=21600&v=9"
-          width="680"
-          alt="GitHub Streak"
-          style="display:block;margin:20px auto 0;"
-        />
+     <!-- Stats en el centro --> <td align="center" valign="middle"> <div style=" background:#1b1b1b; /* gris oscuro sólido */ border:1px solid #2a2a2a; border-radius:14px; padding:24px; width:720px; /* más ancho */ box-shadow: 0 0 12px rgba(0,0,0,0.7); "> <!-- GitHub Readme Stats --> <img src="https://github-readme-stats.vercel.app/api?username=sebacalvino&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=dddddd&text_color=bfbfbf&icon_color=aaaaaa&v=6" width="680" alt="GitHub Stats" style="display:block;margin:0 auto;" /> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=sebacalvino&hide_border=true&background=1b1b1b&ring=aaaaaa&fire=aaaaaa&currStreakNum=dddddd&sideNums=bfbfbf&currStreakLabel=bfbfbf&sideLabels=bfbfbf&dates=8c8c8c&stroke=333333&v=6" width="680" alt="GitHub Streak" style="display:block;margin:20px auto 0;" /> </div> </td>
       </div>
     </td>
     <!-- Imagen derecha -->
