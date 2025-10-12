@@ -1,5 +1,5 @@
 <img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/37cdd222-23b0-40d6-9477-d55ab678392d" />    
-  
+   
 <table align="center">       
   <tr>      
     <!-- Imagen izquierda -->
